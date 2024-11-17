@@ -8,3 +8,4 @@ vit_linear:
     momentum: 0.99
     net_class: ViTVPTDeep
     batch_size: 32
+    prompt_len: 5
